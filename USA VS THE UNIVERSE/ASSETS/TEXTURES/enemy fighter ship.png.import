@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/isis fighter ship.png-f99f6c586b5fda78bfebd41f62852ca6.stex"
+path="res://.import/enemy fighter ship.png-807f5b6960d46b1be8b9f5cafe35f871.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://ASSETS/TEXTURES/isis fighter ship.png"
-dest_files=[ "res://.import/isis fighter ship.png-f99f6c586b5fda78bfebd41f62852ca6.stex" ]
+source_file="res://ASSETS/TEXTURES/enemy fighter ship.png"
+dest_files=[ "res://.import/enemy fighter ship.png-807f5b6960d46b1be8b9f5cafe35f871.stex" ]
 
 [params]
 

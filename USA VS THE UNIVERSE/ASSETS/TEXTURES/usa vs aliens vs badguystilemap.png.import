@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/usa vs aliens vs isis tilemap.png-e7738a76b849e5cf156271c655e12d03.stex"
+path="res://.import/usa vs aliens vs badguystilemap.png-9138da55b30998b03cc9d5362642bd66.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://ASSETS/TEXTURES/usa vs aliens vs isis tilemap.png"
-dest_files=[ "res://.import/usa vs aliens vs isis tilemap.png-e7738a76b849e5cf156271c655e12d03.stex" ]
+source_file="res://ASSETS/TEXTURES/usa vs aliens vs badguystilemap.png"
+dest_files=[ "res://.import/usa vs aliens vs badguystilemap.png-9138da55b30998b03cc9d5362642bd66.stex" ]
 
 [params]
 
